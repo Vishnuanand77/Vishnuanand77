@@ -41,6 +41,10 @@
 <br />
 <br />
 
+---
+
+[![Vishnu Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnuanand77&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
