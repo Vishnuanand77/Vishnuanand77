@@ -51,10 +51,7 @@
 
 </details>
 
-<!-- [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/vishnuanand2000
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/yesviznu
 [linkedin]: https://www.linkedin.com/in/vishnu-anand-7925021a0/
 [github]: https://github.com/vishnuanand2000
