@@ -2,7 +2,9 @@
 <!-- - aka [codeSTACKr][website]  -->
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/vishnuanand2000?label=vishnuanand&style=social)](https://twitter.com/vishnuanand2000)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yesviznu)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishnuanand2000)
+[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnuanand77)
 
 ## I'm a Developer, Graphic Designer and a Photographer!
 
