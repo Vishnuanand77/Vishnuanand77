@@ -47,13 +47,7 @@
 ## My Github Stats
 <br />
 
-[![Vishnu Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnuanand77&show_icons=true&hide=prs,issues&theme=vue-dark)](https://github.com/Vishnuanand77)
-
----
-## Languages That I Use
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuanand77&langs_count=8&layout=compact&theme=vue-dark&hide=css)](https://github.com/Vishnuanand77?tab=repositories)
+[![Vishnu Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnuanand77&show_icons=true&hide=prs,issues&theme=vue-dark)](https://github.com/Vishnuanand77) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuanand77&langs_count=8&layout=compact&theme=vue-dark&hide=css)](https://github.com/Vishnuanand77?tab=repositories)
 
 
 [twitter]: https://twitter.com/vishnuanand2000
