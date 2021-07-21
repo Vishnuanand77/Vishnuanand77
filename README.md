@@ -7,9 +7,9 @@
 ## I'm a Developer, Graphic Designer and a Photographer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers and Designers for building my Resume
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch Formula one and I am told I am good at football!
+- 👯 I’m looking to collaborate with other Developers and Designers for building my portfolio
+- 🥅 2021 Goals: Build more personal projects and learn more about my future
+- ⚡ Fun fact: I love to make origami and race on my sim!
 
 
 ### Connect with me:
