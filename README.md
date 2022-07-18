@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers and Designers for building my portfolio
-- 🥅 2021 Goals: Build more personal projects and learn more about my future
+- 🥅 2022 Goals: Build more personal projects, learn spring, learn react and become a better Full Stack Developer
 - ⚡ Fun fact: I love to make origami and race on my sim!
 
 ---
