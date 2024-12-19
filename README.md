@@ -1,20 +1,15 @@
 ### Hi there, I'm Vishnu Anand 
-## I'm a Developer, Graphic Designer and a Photographer!
+## I'm a Software engineer and a Data Analyst!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers and Designers for building my portfolio
-- 🥅 2022 Goals: Build more personal projects, learn spring, learn react and become a better Full Stack Developer
-- ⚡ Fun fact: I love to make origami and race on my sim!
+- 🌱 I’m currently pursuing my Master's in Business Analytics and Information Management at Purdue University
+- 🥅 2024 Goals: Build more personal projects, conduct analytical research, learn about Large Language Models and how I can use them
 
 ---
 ### Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yesvisnu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/visnu.arw)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishnuanand2000)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-anand-7925021a0/)
-<!-- ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) -->
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vishnuanand2000)
-<!-- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) -->
 
 
 ---
@@ -51,6 +46,6 @@
 
 
 [twitter]: https://twitter.com/vishnuanand2000
-[instagram]: https://instagram.com/yesviznu
+[instagram]: https://instagram.com/visnu.arw
 [linkedin]: https://www.linkedin.com/in/vishnu-anand-7925021a0/
 [github]: https://github.com/vishnuanand2000
