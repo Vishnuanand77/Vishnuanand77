@@ -1,4 +1,4 @@
-### Hi there, I'm Vishnu Anand 
+# Hi there, I'm Vishnu Anand 
 ## I'm a Software engineer and a Data Analyst!
 
 - 🌱 I’m currently pursuing my Master's in Business Analytics and Information Management at Purdue University
