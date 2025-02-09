@@ -1,5 +1,5 @@
 # Hi there, I'm Vishnu Anand 
-## I'm a Software engineer and a Data Analyst!
+## I'm a Data Analyst and AI Researcher!
 
 - 🌱 I’m currently pursuing my Master's in Business Analytics and Information Management at Purdue University
 - 🥅 2024 Goals: Build more personal projects, conduct analytical research, learn about Large Language Models and how I can use them
