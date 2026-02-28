@@ -1,6 +1,6 @@
 # Hi there, I’m Vishnu Anand 👋
 
-**Business Analyst • ML + AI Enthusiast • Builder**
+**AI Engineer • ML + AI Enthusiast • Builder**
 
 I like shipping practical ML/GenAI systems end-to-end — from data + modeling to lightweight apps/demos — and turning messy real-world signals into decision-ready insights.
 
