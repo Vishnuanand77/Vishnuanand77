@@ -50,17 +50,3 @@ I like shipping practical ML/GenAI systems end-to-end — from data + modeling t
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-anand-7925021a0/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vishnuanand2000)
-
----
-
-## GitHub stats
-<br />
-
-[![Vishnu Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnuanand77&show_icons=true&hide=prs&theme=vue-dark)](https://github.com/Vishnuanand77)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuanand77&langs_count=8&layout=compact&theme=vue-dark&hide=css)](https://github.com/Vishnuanand77?tab=repositories)
-
----
-
-## Quick notes
-- I enjoy collaborating on **applied ML / GenAI projects** that have clear success metrics.
-- If you’re building something that needs **strong analytics + ML + execution**, I’m usually interested.
