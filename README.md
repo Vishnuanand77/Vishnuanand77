@@ -12,24 +12,23 @@ I like shipping practical ML/GenAI systems end-to-end — from data + modeling t
 - **Product-minded engineering**: prototypes that are demo-able, documented, and easy to iterate on
 
 ---
+## Featured work
 
-## Featured work (from my pinned repos)
-### LLM / NLP + Evaluation
+### 🧠 LLM / NLP + Evaluation
 - **[text_classification](https://github.com/Vishnuanand77/text_classification)**  
-  Experiments around text classification with structured results folders (model runs, comparisons, and evaluation notebooks).
+  Text classification experimentation repo with structured outputs (e.g., `gpt_results/`, `hermes_results/`, `results/`) and evaluation notebooks for comparing runs.  [oai_citation:0‡GitHub](https://github.com/Vishnuanand77/text_classification)
 
-### Predictive Modeling (Real-world dataset)
+### 🏠 Predictive Modeling
 - **[airbnb-superhost-prediction](https://github.com/Vishnuanand77/airbnb-superhost-prediction)**  
-  End-to-end ML project predicting Superhost status, including EDA, modeling (LogReg, RF, XGBoost, NN), and business insights.
+  End-to-end Superhost prediction pipeline: preprocessing → feature selection → model development (LogReg, RF, XGBoost, NN) → evaluation (precision/recall, ROC) + key driver analysis.  [oai_citation:1‡GitHub](https://github.com/Vishnuanand77/airbnb-superhost-prediction)
 
-### Sports Analytics / Competition Modeling
-- **[Crossroads-Classic-Analytics-Challenge-Learning-Machine](https://github.com/Vishnuanand77/Crossroads-Classic-Analytics-Challenge-Learning-Machine)**  
-  Basketball analytics + CatBoost modeling pipeline (EDA + modeling notebooks + submissions workflow).
+### 📸 Instagram Clone (FastAPI)
+- **[InstagramClone_withFastAPI](https://github.com/Vishnuanand77/InstagramClone_withFastAPI)**  
+  “Simple Social”: FastAPI backend + Streamlit frontend with JWT auth (via FastAPI Users), async SQLAlchemy + SQLite persistence, and ImageKit-backed media uploads (images/short videos) with a unified feed.  [oai_citation:2‡GitHub](https://github.com/Vishnuanand77/InstagramClone_withFastAPI)
 
-### Agentic AI (B2B Sales Motion)
-- **[pg-sales-agent](https://github.com/Vishnuanand77/pg-sales-agent)**  
-  A multi-agent prototype simulating B2B sales workflows (lead research → qualification → meeting booking → quoting) using LangChain + LLMs.
-
+### 🔎 RAG Project
+- **[RAG-Project](https://github.com/Vishnuanand77/RAG-Project)**  
+  Retrieval-Augmented Generation pipeline over local text docs: load `.txt` → chunk (1000 chars, 20 overlap) → embed (`text-embedding-3-small`) → store/retrieve with ChromaDB → cosine-similarity ranked retrieval (top-k) for context-fed QA with GPT models.  [oai_citation:3‡GitHub](https://github.com/Vishnuanand77/RAG-Project)
 ---
 
 ## Tech I work with
